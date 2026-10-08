@@ -6,9 +6,14 @@ Dieselbe Klassifizierung dieses Mal mit der WENNS-Funktion statt einer verschach
 'Sonderfall', wenn Abteilung = 'Reklamation' ODER 'Eskalation', sonst 'Standardfall'.  
 'Erfasst', wenn die Bemerkung NICHT leer ist, sonst 'Fehlt'.
 
-Screenshots
-auswertung1.png
-auswertung2.png
-auswertung3.png
-auswertung4.png
-auswertung5.png
+## Screenshots
+
+![Auswertung 1](auswertung1.png)
+
+![Auswertung 2](auswertung2.png)
+
+![Auswertung 3](auswertung3.png)
+
+![Auswertung 4](auswertung4.png)
+
+![Auswertung 5](auswertung5.png)
