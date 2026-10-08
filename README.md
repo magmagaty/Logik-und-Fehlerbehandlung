@@ -5,3 +5,10 @@ Dieselbe Klassifizierung dieses Mal mit der WENNS-Funktion statt einer verschach
 'Kritisch', wenn Bearbeitungsdauer > 240 UND Abteilung = 'Reklamation', sonst 'Normal'.  
 'Sonderfall', wenn Abteilung = 'Reklamation' ODER 'Eskalation', sonst 'Standardfall'.  
 'Erfasst', wenn die Bemerkung NICHT leer ist, sonst 'Fehlt'.
+
+Screenshots
+auswertung1.png
+auswertung2.png
+auswertung3.png
+auswertung4.png
+auswertung5.png
